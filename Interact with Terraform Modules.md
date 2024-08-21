@@ -1,6 +1,6 @@
 # Interact with Terraform Modules || GSP751
 
-## Solution [here](https://youtu.be/M_-C96PEMwk)
+## Solution [here](https://youtu.be/gnRrAbUzMdc)
 
 ### Run the following Commands in the Cloud shell
 
