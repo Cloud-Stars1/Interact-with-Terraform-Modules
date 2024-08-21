@@ -10,9 +10,6 @@ export REGION=
 ```
 
 ```
-
-
-
 gcloud auth list 
 git clone https://github.com/terraform-google-modules/terraform-google-network
 cd terraform-google-network
